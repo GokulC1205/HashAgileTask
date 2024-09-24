@@ -26,7 +26,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/resume-information-extractor.git
    cd resume-information-extractor
-
 2.Install the required dependencies:
   ```bash
   pip install -r requirements.txt
