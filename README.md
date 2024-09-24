@@ -1,6 +1,6 @@
 # Resume Information Extractor
 
-A powerful tool designed to extract essential information from resumes in various formats (PDF, DOCX, TXT) using Streamlit and Google Gemini API KEY. This project was created as part of the Hash Agile selection process to streamline the resume review process for potential candidates.
+Resume Information Extractor designed to extract essential information from resumes in various formats (PDF, DOCX, TXT) using Streamlit and Google Gemini API KEY. This project was created as part of the Hash Agile selection process.
 
 ## Features
 
