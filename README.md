@@ -1,8 +1,8 @@
-**Resume Information Extractor**:
+**Resume Information Extractor:**
 
 Resume Information Extractor is a tool designed to extract essential details from resumes in various formats (PDF, DOCX, TXT) using Streamlit and Google Gemini API. This project was created as part of the Hash Agile selection process.
 
-**Features**:
+**Features:**
 
 **Multi-Format Support:** Upload and extract text from resumes in PDF, DOCX, or TXT formats.
 
