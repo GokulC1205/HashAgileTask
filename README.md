@@ -1,15 +1,18 @@
-# Resume Information Extractor
+**Resume Information Extractor**:
 
-Resume Information Extractor designed to extract essential information from resumes in various formats (PDF, DOCX, TXT) using Streamlit and Google Gemini API KEY. This project was created as part of the Hash Agile selection process.
+Resume Information Extractor is a tool designed to extract essential details from resumes in various formats (PDF, DOCX, TXT) using Streamlit and Google Gemini API. This project was created as part of the Hash Agile selection process.
 
-## Features
+**Features**:
 
-- **Multi-Format Support**: Upload and extract text from resumes in PDF, DOCX, or TXT formats.
-- **AI-Powered Extraction**: Utilizes Google Gemini to accurately identify and extract key information such as name, email, phone number, college name, and skills.
-- **User-Friendly Interface**: Built with Streamlit to provide an intuitive user experience.
-- **Clean Output**: Displays extracted information in a well-formatted table.
+**Multi-Format Support:** Upload and extract text from resumes in PDF, DOCX, or TXT formats.
 
-## Technologies Used
+**AI-Powered Extraction:** Utilizes Google Gemini to accurately identify and extract key information such as Name, Email, Phone Number, College Name, Skills.
+
+**User-Friendly Interface:** Built with Streamlit to provide an intuitive and responsive user experience.
+
+**Clean Output:** Displays extracted information in a well-formatted table for easy readability.
+
+**Technologies Used:**
 
 - Python
 - Streamlit
@@ -19,15 +22,17 @@ Resume Information Extractor designed to extract essential information from resu
 - Texttable
 - dotenv (for environment variable management)
 
-## Installation
-
+**Do with me:**
 To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/resume-information-extractor.git
    cd resume-information-extractor
-2.Install the required dependencies:
-  ```bash
-  pip install -r requirements.txt
 
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+**Sample Output**
+![Screenshot (607)](https://github.com/user-attachments/assets/fe0a575d-4bc4-43aa-addb-b9354826d651)
 
